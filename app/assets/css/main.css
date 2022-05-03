@@ -1,0 +1,39 @@
+.options{
+    text-align: center !important;
+    margin-bottom: 15px;
+}
+
+.bus-routes{
+    font-size:20px;
+    text-align:center;
+}
+
+input[type="submit"]{
+     background-color: green;
+     border-radius:10px;
+     font-size: 16pt;
+     padding:10px;
+     margin-left: 20px;
+}
+
+table, th, td {
+    width: 250px;
+    text-align:center;
+    border: 1px solid black;
+}
+
+.title-info-stops{
+    margin-top: 10px;
+    margin-bottom: 65px;
+}
+
+.title-info{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.come-back-link {
+    margin-top:30px;
+    text-decoration: underline !important;
+    font-size: 20pt !important;
+}
